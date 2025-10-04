@@ -1,0 +1,1 @@
+# teradata-k0t
